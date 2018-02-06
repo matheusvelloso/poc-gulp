@@ -1,0 +1,27 @@
+{
+  "name": "poc-gulp",
+  "version": "1.0.0",
+  "description": "Criacao de projeto de explicacao no @codefc",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusvelloso/poc-gulp.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Matheus Velloso Sá",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusvelloso/poc-gulp/issues"
+  },
+  "homepage": "https://github.com/matheusvelloso/poc-gulp#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
